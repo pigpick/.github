@@ -1,4 +1,4 @@
-# DDOEAT 또:eat
+# DDOEAT 또:eat 🍽️
 > SSAFY 11기 1학기 관통 프로젝트
 <p align="center">
   <img src="https://github.com/pigpick/.github/assets/115332381/7fad7b43-ea82-4846-984c-5bddf9bb0c0b"  width="250" height="250"/>
@@ -11,7 +11,7 @@
 > 장혜원<br>
 
 ## 프로젝트 소개
-
+> 나만의 맛집 리스트를 기록하고 공유하는 웹 서비스
 
 
 ## 기술 스택
@@ -36,6 +36,13 @@
 ## 화면 구성
 
 ## 주요 기능
+<b>👣 식당 정보 제공</b> <br>
+
+<b>👣 나만의 맛집리스트 관리</b> <br>
+
+<b>👣 모임 장소 추천</b> <br>
+
+<b>👣 맛집 리스트 공유</b> <br>
 
 <!--
 **Here are some ideas to get you started:**
