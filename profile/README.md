@@ -1,11 +1,9 @@
 # DDOEAT 또:eat
+> SSAFY 11기 1학기 관통 프로젝트
 <p align="center">
   <img src="https://github.com/pigpick/.github/assets/115332381/7fad7b43-ea82-4846-984c-5bddf9bb0c0b"  width="250" height="250"/>
 </p>
 
-> SSAFY 11기 1학기 관통 프로젝트
-
-## 배포 주소
 
 ## 팀 소개
 > 이찬진<br>
